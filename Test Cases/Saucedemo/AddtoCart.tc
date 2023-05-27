@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add To Cart Sauce Labs Backpack Item</description>
+   <name>AddtoCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ba65c29-f5dc-4701-b979-fa363fc2864d</testCaseGuid>
+</TestCaseEntity>

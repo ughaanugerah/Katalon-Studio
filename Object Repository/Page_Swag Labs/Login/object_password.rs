@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>object_password</name>
+   <tag></tag>
+   <elementGuidId>35a1842f-36f2-4be0-bb8d-bc71d4c7fd51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.login_password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;login_password&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>61d0e3c6-8596-41ba-9ccd-3ea83c44ece7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login_password</value>
+      <webElementGuid>26e75cdf-4eb4-4961-9d93-01fbd6630062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password for all users:secret_sauce</value>
+      <webElementGuid>5caec493-6764-474c-a0d9-f7158fe59e4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;login_container&quot;]/div[@class=&quot;login_wrapper&quot;]/div[@class=&quot;login_credentials_wrap&quot;]/div[@class=&quot;login_credentials_wrap-inner&quot;]/div[@class=&quot;login_password&quot;]</value>
+      <webElementGuid>c21059c8-f353-406d-93bf-5c0ab09d696b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

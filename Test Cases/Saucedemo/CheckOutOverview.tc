@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary Checkout Overview Verify Item &amp; Total Item that have been added in the AddtoCart Scenario</description>
+   <name>CheckOutOverview</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a740deee-138d-43f0-b532-9678d5702e39</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input FirstName, LastName, PostalCode in Checkout Information</description>
+   <name>CheckOutInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee048d3c-1fa1-4629-9800-a90ba70e6c95</testCaseGuid>
+</TestCaseEntity>

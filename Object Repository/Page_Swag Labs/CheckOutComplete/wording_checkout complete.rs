@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wording_checkout complete</name>
+   <tag></tag>
+   <elementGuidId>80426bd9-f774-4610-b7fd-0f882cefc4bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header_container']/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>21db32fa-f16e-449d-a1aa-9755c8d0cfe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>2c5a21e1-5fa3-4877-b59b-87cb38bda919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Checkout: Complete!</value>
+      <webElementGuid>5a0b12f0-8fde-48b6-ac93-5212068ac8d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header_container&quot;)/div[@class=&quot;header_secondary_container&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>9eaf68bf-98be-4617-9618-a09779051cb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header_container']/div[2]/span</value>
+      <webElementGuid>d594cd40-15db-424e-93c3-01eea783b6c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::span[1]</value>
+      <webElementGuid>08df7140-536f-44ea-8a2b-2de374db82fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::span[1]</value>
+      <webElementGuid>897b3d1c-2d51-4b35-9f92-332dab68796c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for your order!'])[1]/preceding::span[1]</value>
+      <webElementGuid>7692574a-f968-47e8-9e83-c0f607e664cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your order has been dispatched, and will arrive just as fast as the pony can get there!'])[1]/preceding::span[1]</value>
+      <webElementGuid>e3548e19-76df-4f15-b55f-81fd0e54de53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Checkout: Complete!']/parent::*</value>
+      <webElementGuid>c89a0b21-df85-4292-8494-2bda64c189fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>2bb53ceb-0059-4a2c-98a9-6b8fadb428f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Checkout: Complete!' or . = 'Checkout: Complete!')]</value>
+      <webElementGuid>70f5cd9f-d61b-4b6d-bb07-13a7b66f7417</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
