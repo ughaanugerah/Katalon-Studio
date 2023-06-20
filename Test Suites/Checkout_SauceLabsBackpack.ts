@@ -12,45 +12,17 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>3f5a02a2-cafc-49b0-a48f-66a702264e9c</testSuiteGuid>
    <testCaseLink>
-      <guid>b7799d83-d579-4637-a2df-6fc9af2d2a58</guid>
+      <guid>95aa4d82-c9b6-4f3c-856d-3658d0eac77e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Saucedemo/Login</testCaseId>
+      <testCaseId>Test Cases/Test Scenario/1. Scenario Check Out</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>5e888cf9-7b8f-42d3-9539-2e9f8ba18ac3</guid>
+      <guid>2e12694e-9c0f-4cb4-9399-e1a0821c8ea2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Saucedemo/AddtoCart</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>d2893ab1-30f7-48b4-8bc8-15bf14e1908c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Saucedemo/SummaryCart</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>70d20854-9ddd-47b2-a26f-6e8ddfe11e90</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Saucedemo/CheckOutInformation</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>8e0a75ed-0582-464e-abfe-33357c6b05b4</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Saucedemo/CheckOutOverview</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>a0661489-8dc9-4f84-9fb6-cba5e51aaa87</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Saucedemo/CheckOutComplete</testCaseId>
+      <testCaseId>Test Cases/Test Scenario/2. Scenario Invalid Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
