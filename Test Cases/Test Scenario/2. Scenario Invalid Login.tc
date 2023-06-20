@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login menggunakan akun yang tidak terdaftar dalam System</description>
+   <name>2. Scenario Invalid Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50d69b23-ce13-434a-bf36-50bd9e8f9af4</testCaseGuid>
+</TestCaseEntity>

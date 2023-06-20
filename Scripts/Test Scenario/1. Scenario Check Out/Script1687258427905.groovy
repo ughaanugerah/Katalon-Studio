@@ -17,25 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Library/Login/1. Login_Valid'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://www.saucedemo.com/')
+WebUI.callTestCase(findTestCase('Library/Inventory/AddtoCart'), [:], FailureHandling.STOP_ON_FAILURE)
 
-ListUsername = WebUI.getText(findTestObject('Page_Swag Labs/Login/object_username'))
+WebUI.callTestCase(findTestCase('Library/Cart/SummaryCart'), [:], FailureHandling.STOP_ON_FAILURE)
 
-String[] ListUsername_split = ListUsername.split('\n')
+WebUI.callTestCase(findTestCase('Library/Checkout/CheckOutInformation'), [:], FailureHandling.STOP_ON_FAILURE)
 
-String username = (ListUsername_split[1]).trim()
+WebUI.callTestCase(findTestCase('Library/Checkout/CheckOutOverview'), [:], FailureHandling.STOP_ON_FAILURE)
 
-ListPassword = WebUI.getText(findTestObject('Page_Swag Labs/Login/object_password'))
-
-String[] ListPassword_split = ListPassword.split('\n')
-
-String Password = (ListPassword_split[1]).trim()
-
-WebUI.setText(findTestObject('Page_Swag Labs/Login/input_username'), username)
-
-WebUI.setText(findTestObject('Page_Swag Labs/Login/input_password'), Password)
-
-WebUI.click(findTestObject('Page_Swag Labs/Login/input_login'))
+WebUI.callTestCase(findTestCase('Library/Checkout/CheckOutComplete'), [:], FailureHandling.STOP_ON_FAILURE)
 
